@@ -20,7 +20,7 @@ iCodeBetter is way powerful than existing low-code platforms. And unlike others 
 * [Documentation](#documentation)
 
 ## Local setup
-> You can take a look at [detailed instruction](https://github.com/icodebetter/icodebetter/blob/master/.github/detailed_setup.md) as well :bowtie:
+> You can take a look at [detailed instruction](https://github.com/iferianto/icodebetter/blob/master/.github/detailed_setup.md) as well :bowtie:
 #### Prerequisites
 - PostgreSQL
 - Spring Boot
